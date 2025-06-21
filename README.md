@@ -43,6 +43,6 @@ Dış servislerle (örneğin SMS, Email, 3rd party API’ler) olan bağlantılar
 
 
 
- 
+ DbBackup :https://drive.google.com/file/d/1Ff0khXz9TLbEgLlue8UoF1za5eW9gZcR/view?usp=sharing
 
  
