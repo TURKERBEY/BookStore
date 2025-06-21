@@ -43,8 +43,10 @@ Dış servislerle (örneğin SMS, Email, 3rd party API’ler) olan bağlantılar
 
 
 
-Db Script
+ 
 
+
+db Script:
  
 USE [master]
 GO
@@ -226,7 +228,3 @@ USE [master]
 GO
 ALTER DATABASE [BookStore] SET  READ_WRITE 
 GO
-
-
-
-
