@@ -3,6 +3,7 @@
 •	Minimal API (.NET 8)
 •	CQRS + MediatR
 •	Entity Framework Core
+•	Ms sql
 •	Swagger
 •	JWT Authentication
 •	Modüler yapı
