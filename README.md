@@ -1,6 +1,6 @@
 🔧 Kullanılan Mimariler ve Teknolojiler
 •	Clean Architecture
-•	Minimal API (.NET 7/8)
+•	Minimal API (.NET 8)
 •	CQRS + MediatR
 •	Entity Framework Core
 •	Swagger
